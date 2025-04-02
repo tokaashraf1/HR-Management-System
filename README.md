@@ -6,8 +6,8 @@ A simple HR Management System built with Laravel 12 that allows an admin to mana
 ## Features
 Admin authentication (using Laravel Sanctum)
 
-CRUD operations for workers and tasks
+CRUD operations for workers and tasks.
 
-Task completion tracking
+Task completion tracking.
 
-API endpoints for retrieving workers, tasks, and task statistics
+API endpoints for retrieving workers, tasks, and task statistics.
